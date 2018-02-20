@@ -1,5 +1,5 @@
 # MedTrack
-MedTrack has the solution, it’s free and simple! MedTrack will remind you when to take your medication. You can also update your app manually. You are notified if you don’t check in. It will help you remember to take meds, keep track of what pill you took and when, remind you to refill.
+MedTrack has the solution, it’s free and simple! MedTrack will remind you when to take your medication. You are notified if you don’t check in. It will help you remember to take meds, keep track of what pill you took and when, remind you to refill.
 
 # App Features:
 *Reminder / Alarms
